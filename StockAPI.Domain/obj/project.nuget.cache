@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jb+sWoTR8/8rmZX0L+ulV9mbrZBXGN88BFiYDUqUh7d/oKmmAwvFC+Ke6EmW01ZxJRaS3vn2ntTKBSI+32GNuA==",
+  "success": true,
+  "projectFilePath": "G:\\stock\\StockAPI\\StockAPI.Domain\\StockAPI.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LinWin\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\LinWin\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\LinWin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

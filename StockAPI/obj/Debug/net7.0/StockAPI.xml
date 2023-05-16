@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StockAPI</name>
+    </assembly>
+    <members>
+        <member name="M:StockAPI.Controllers.V1.StockController.Add(StockAPI.HttpModels.StockItemPostViewModel,System.Threading.CancellationToken)">
+            <summary>
+            Добавляет stock item.
+            </summary>
+        </member>
+    </members>
+</doc>
